@@ -1,0 +1,11 @@
+html {
+  font-family: helvetica;
+}
+
+.hidden {
+  display: none;
+}
+
+#error-message {
+  color: red;
+}
